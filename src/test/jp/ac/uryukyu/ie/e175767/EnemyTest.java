@@ -1,6 +1,5 @@
 package jp.ac.uryukyu.ie.e175767;
 
-package jp.ac.uryukyu.ie.e185702;
 
 import org.junit.jupiter.api.Test;
 
